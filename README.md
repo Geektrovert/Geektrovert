@@ -15,9 +15,8 @@ I love to brew web applications with Python, Js and coffee. Currently pursuing C
 - 🔭 <b>Currently working on:</b> React.js, Next.js
 - 🌱 <b>Getting better at:</b> Javascript, Python
 - 🤔 <b>Exploring:</b> Metaprogramming
-- 👯 <b>Experimenting on:</b> Automated code generation
+- ⚗️ <b>Experimenting on:</b> Automated code generation
 - 💬 <b>Ask me about:</b> Python, Rock/Metal Music(or any other type), Anime
-- 📫 <b>Reach me out:</b> Shoot a mail at [samnan.rahee.96@gmail.com](mailto:samnan.rahee.96@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
 
 ### My Stacks
 
