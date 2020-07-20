@@ -30,7 +30,7 @@ I love to brew web applications with Python, Js and coffee. Currently pursuing C
   },
   "database": ["PostgreSQL", "SQLite"],
   "misc": ["Docker","Celery", "RabbitMQ"],
-  "tools": ["Adobe XD","Adobe Illustrator"],
+  "tools": ["Adobe XD","Adobe Illustrator"]
 }
 ```
 
