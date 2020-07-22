@@ -12,9 +12,9 @@ I love to brew web applications with Python, Js and coffee. Currently pursuing C
 
 ### Things you should know
 
-- 🔭 <b>Currently working on:</b> React.js, Next.js
+- 🔭 <b>Currently working on:</b> React.js, React Native, Next.js
 - 🌱 <b>Getting better at:</b> Javascript, Python
-- 🤔 <b>Exploring:</b> Metaprogramming
+- 🤔 <b>Exploring:</b> React Native
 - ⚗️ <b>Experimenting on:</b> Automated code generation
 - 💬 <b>Ask me about:</b> Python, Rock/Metal Music(or any other type), Anime
 
