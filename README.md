@@ -18,6 +18,13 @@ I love to brew web applications with Python, Js and coffee. Currently pursuing C
 - ⚗️ <b>Experimenting on:</b> Automated code generation
 - 💬 <b>Ask me about:</b> Python, Rock/Metal Music(or any other type), Anime
 
+<br />
+<p align="center">
+  <a href="https://github.com/Geektrovert">
+    <img src="https://github-readme-stats.vercel.app/api?username=Geektrovert&&show_icons=true&theme=tokyonight&count_private=true" alt="Geektrovert's Stats" >
+  </a>
+</p>
+
 ### My Stacks
 
 ```json
