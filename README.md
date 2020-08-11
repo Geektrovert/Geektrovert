@@ -1,3 +1,5 @@
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Geektrovert&&show_icons=true&theme=tokyonight&count_private=true" alt="Geektrovert's Github Stats"/>](https://github.com/Geektrovert)
+
 # Hi there! I'm Samnan, nice to meet ya!
 
 [![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=222244&labelColor=000000&logo=twitter&logoColor=f5f7fe&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3DSamnanRahee&suffix=%20Followers)](https://twitter.com/SamnanRahee)
@@ -17,13 +19,6 @@ I love to brew web applications with Python, Js and coffee. Currently pursuing C
 - 🤔 <b>Exploring:</b> React Native
 - ⚗️ <b>Experimenting on:</b> Automated code generation
 - 💬 <b>Ask me about:</b> Python, Rock/Metal Music(or any other type), Anime
-
-<br />
-<p align="center">
-  <a href="https://github.com/Geektrovert">
-    <img src="https://github-readme-stats.vercel.app/api?username=Geektrovert&&show_icons=true&theme=tokyonight&count_private=true" alt="Geektrovert's Stats" >
-  </a>
-</p>
 
 ### My Stacks
 
