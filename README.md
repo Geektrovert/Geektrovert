@@ -10,7 +10,7 @@
 > Full-stack software engineer (working part time) <br />
 > OpenSource enthusiast, Deep learning enthusiast
 
-I love to brew web applications with Python, Js and coffee. Currently pursuing Computer Science and Engineering degree at University of Dhaka. I'm an INTP-A. Outside study or work, I love contributing to open-source, making UI designs. I am trying to build a local open-source community named [FossNation](https://www.facebook.com/groups/FOSSNation).
+I brew web applications with Python, Js and coffee. Currently pursuing undergrad as a CS major. I'm an INTP-A.I love contributing to open-source, making UI designs. I am trying to build a local open-source community named [FossNation](https://www.facebook.com/groups/FOSSNation).
 
 ### Things you should know
 
