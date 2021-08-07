@@ -29,15 +29,9 @@ Hi there, I'm an [INTP-A](https://www.16personalities.com/intp-personality), bre
 
 ```json
 {
-  "languages": ["Javascript", "Python", "SASS", "Bash"],
-  "frameworks/libraries": {
-    "frontend": ["React", "Next", "React-query", "Framer-Motion"],
-    "backend": ["Flask", "Django", "PyTest"],
-    "others": ["PyTorch", "NumPy", "Pandas", "Matplotlib"]
-  },
-  "database": ["PostgreSQL", "SQLite"],
-  "misc": ["Docker", "Celery"],
-  "tools": ["Adobe XD"]
+  "Actively working with": ["TypeScript", "React", "Next", "React-Query", "Emotion", "Framer-motion", "CSS3"],
+  "Previously worked with": ["Python", "Django", "SQL", "Django ORM", "Celery", "PyTest"],
+  "Nothing in production": ["RabbitMQ",  "NumPy", "Pandas", "Matplotlib", "PyTorch"],
 }
 ```
 
