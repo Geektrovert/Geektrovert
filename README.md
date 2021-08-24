@@ -13,18 +13,6 @@ Making the web look cooler, one commit at a time!
 
 Hi there, I'm an [INTP-A](https://www.16personalities.com/intp-personality), brewing web applications with **_Js, Python, and Coffee_**. Currently pursuing CS degree at University of Dhaka. Also working with Y-Combinator startups/alumnus to build impactful products, as a Software Engineer. I love making cool interactive websites, contributing to open-source, making UI designs, and learning new stuff.
 
-<br/>
-
-### Things you might wanna know
-
-- 🔭 <b>Working on:</b> React, Next, Framer-Motion
-- 🌱 <b>Getting better at:</b> Javascript, Python
-- 🤔 <b>Exploring:</b> Three.js, GraphQL, Typescript
-- ⚗️ <b>Experimenting on:</b> Making the web look cool yet accessible and performant
-- 💬 <b>Ask me about:</b> Coding, Music, Anime, Startup ideas
-
-<br/>
-
 ### Tech Stacks I've worked with
 
 ```json
@@ -34,5 +22,14 @@ Hi there, I'm an [INTP-A](https://www.16personalities.com/intp-personality), bre
   "Nothing in production": ["RabbitMQ",  "NumPy", "Pandas", "Matplotlib", "PyTorch"],
 }
 ```
+
+### Things you might wanna know
+
+- 🔭 <b>Working on:</b> Typescript, React, Next, Framer-Motion
+- 🌱 <b>Getting better at:</b> Python
+- 🤔 <b>Exploring:</b> Golang, GraphQL, GRPC
+- ⚗️ <b>Experimenting on:</b> ORM, Load balancing
+- 💬 <b>Ask me about:</b> Coding, Music, Mecha Keyboards, Startup ideas
+
 
 ### Happy coding!
