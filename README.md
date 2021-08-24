@@ -4,8 +4,8 @@
 
 Making the web look cooler, one commit at a time!
 
-> Undergraduate student @ University of Dhaka <br />
-> Full-stack software engineer (part-time)
+> Undergrad student @[CSE,DU](https://www.cse.du.ac.bd/) <br />
+> Software Engineer
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/geektrovert/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:samnan.rahee.96@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
