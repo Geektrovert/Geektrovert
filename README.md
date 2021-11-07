@@ -15,20 +15,31 @@ Hi there, I'm an [INTP-A](https://www.16personalities.com/intp-personality), bre
 
 ### Tech Stacks I've worked with
 
+*I'm working full-stack, but primarily focused on front-end.*
+
 ```json
 {
-  "Actively working with": ["TypeScript", "React", "Next", "React-Query", "Emotion", "Framer-motion", "CSS3"],
-  "Previously worked with": ["Python", "Django", "SQL", "Django ORM", "Celery", "PyTest"],
+  "Actively working with": {
+      "lang": ["typeScript", "python"],
+      "frontend": ["react", "next"],
+      "state-management": ["recoil", "jotai", "redux"],
+      "data-fetching": ["axios", "react-query", "swr"],
+      "styling": ["emotion", "styled-components", "CSS3"],
+      "component-library": ["chakra-ui", "headless-ui"],
+      "animation": ["framer-motion"],
+      "backend": ["FastAPI", "serverless-stack", "prisma"],
+  },
+  "Previously worked with": ["Django", "SQL", "Django ORM", "Celery", "PyTest"],
   "Nothing in production": ["RabbitMQ",  "NumPy", "Pandas", "Matplotlib", "PyTorch"],
 }
 ```
 
 ### Things you might wanna know
 
-- 🔭 <b>Working on:</b> Typescript, React, Next, Framer-Motion
-- 🌱 <b>Getting better at:</b> Python
-- 🤔 <b>Exploring:</b> Golang, GraphQL, GRPC
-- ⚗️ <b>Experimenting on:</b> ORM, Load balancing
+- 🔭 <b>Working with:</b> Mentioned above **↑**
+- 🌱 <b>Getting better at:</b> Mentoring + Leading a team, Managing products
+- 🤔 <b>Exploring:</b> Meta-programming, generative UIs
+- ⚗️ <b>Experimenting on:</b> Next, ORM, Load balancing
 - 💬 <b>Ask me about:</b> Coding, Music, Mecha Keyboards, Startup ideas
 
 
