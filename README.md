@@ -19,17 +19,17 @@ _I'm working **full-stack**, but heavily focused on **FrontEnd** & **dAPPs**_
 ```yaml
 Actively working with:
   Languages:
-  - typeScript, python
+  - TypeScript
   Frontend:
-  - react, next, svelte, recoil, jotai, redux, react-query, swr, framer-motion
+  - React, Next, Astro, Svelte, Recoil, Jotai, Redux, React-Query, SWR, Framer-Motion
   Styling/Component-library:
-  - emotion, styled-components, tailwind-css, CSS3, sass, chakra-ui, radix-ui, headless-ui
+  - Emotion, Styled Components, Tailwind CSS, CSS3, Sass, Chakra-UI, Radix-UI, Headless-UI
   Backend:
-  - tRPC, serverless-stack, prisma
+  - tRPC, Serverless-Stack, Prisma
   Web3:
-  - ethers, web3.js, rainbow-kit
+  - Ethers, Web3.js, Rainbow-Kit
 Previously worked with:
-- Django, SQL, Django ORM, Celery, PyTest
+- Python, Django, SQL, Django ORM, Celery, PyTest
 Nothing in production:
 - Rust, Golang, Redis K/V store, RabbitMQ, NumPy, Pandas, Matplotlib, PyTorch
 ```
@@ -37,9 +37,9 @@ Nothing in production:
 ### Things you might wanna know
 
 - 🔭 <b>Working with:</b> Mentioned above **↑**
-- 🌱 <b>Getting better at:</b> Mentoring + Leading a team, Managing products
-- 🤔 <b>Exploring:</b> Serverless, Generative UIs, Decentralization & Consensus
-- ⚗️ <b>Experimenting on:</b> Astro, Rust, Load Balancing
+- 🌱 <b>Getting better at:</b> Mentoring + Leading a team, Being a Product/Feature owner
+- 🤔 <b>Exploring:</b> Startup Ideas, Serverless, Generative UIs, DeFi & ReFi
+- ⚗️ <b>Experimenting on:</b> Rust, Load Balancing
 - 💬 <b>Let's talk about:</b> Software, DX, Music, Mecha Keyboards, Startup ideas
 
 
