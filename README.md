@@ -6,7 +6,7 @@
 
 _**Making the web look cooler, one commit at a time!**_
 
-> Currently building [**TrelisPay**](https://trelis.com/), [**OneshotEarth**](https://oneshot.earth/) & [Crowd Funding Protocol by **Kickstarter**](https://kickstarter.com)
+> Currently building [**OneshotEarth**](https://oneshot.earth/) & [**JomeeJomaa**](https://www.jomeejomaa.com/)
 
 I brew **WebApps** & **dAPP**s with **_Typescript, Python, and Coffee_**. Working at [Universal Machine](https://universalmachine.io/), a Silicon Valley based **_Venture Studio_**, to help **_Web3/Crypto_** startups build products! Hacking, building & experimenting at [Leveor](https://leveor.xyz/), a multi-disciplinary team, to build impactful software solutions. I've previously worked with a few **_YC startups_** on their products: [ [Replo](https://www.replo.app/), [Osmind](https://www.osmind.org/) ]. I love making cool but performant webapps, making UI/UX designs, contributing to open-source, and continuously learning+building new stuff!
 
