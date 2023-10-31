@@ -24,21 +24,30 @@ Actively working with:
   Languages:
   - TypeScript
   Frontend:
-  - React, Next, Astro, Svelte, SolidJS
-  - Recoil, Jotai, Redux, React-Query, SWR, Framer-Motion
+  - React, Next, Astro, HTMX, Framer-Motion
+  - Zustand, Jotai, Redux, React-Query, SWR
   Styling/Component-library:
-  - Tailwind CSS, Emotion, Styled Components, CSS3, Sass
-  - Chakra-UI, Radix-UI, Headless-UI, CVA, Storybook
+  - CSS3, Sass, Emotion, Styled Components,
+  - Tailwind CSS, Chakra-UI, Radix-UI, Headless-UI
+  - CVA, Storybook
   Backend:
-  - tRPC, Serverless-Stack, Prisma
+  - tRPC, express, Serverless-Stack, Prisma, Drizzle
   Web3:
-  - Ethers, Web3.js, Wagmi, Rainbow-Kit, IPFS, Web3.storage
-  - Etherium, Celo, Polygon
-  CI/CD: GitHub Actions, CircleCI
+  - EthersJS, Web3.js, Wagmi, Rainbow-Kit, IPFS,
+  - Web3.storage, Etherium, Celo, Polygon
+  CI/CD:
+  - GitHub-Actions, CircleCI
+  Infra:
+  - Upstash, Redis
+  Protocols:
+  - HTTP, MQTT, WebSocket, RPC
+
 Previously worked with:
 - Python, Django, SQL, Django ORM, Celery, PyTest
-Nothing in production:
-- Rust, Golang, Redis K/V store, RabbitMQ, NumPy, Pandas, Matplotlib, PyTorch
+
+Worked with but nothing in production:
+- SvelteKit, SolidJS, Rust, Golang, OCaml, Elixir, Pheonix LiveView
+- Redis K/V store, RabbitMQ, NumPy, Pandas, Matplotlib, PyTorch
 ```
 
 ### Things you might wanna know
